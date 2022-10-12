@@ -1,5 +1,10 @@
 # :card_index_dividers: Práctica Introducción al Frontend: **ABOGABOT**
 
+## Índice de contenidos
+* [Descripción del caso](#descripcion)
+* [Toma de requerimientos](#requerimientos)
+
+<a name="descripcion"></a>
 Descripción del caso:
 
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a través de una página web llenando un formulario.
@@ -12,6 +17,7 @@ Descripción del caso:
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+<a name="requerimientos"></a>
 ## :memo: Toma de requerimientos
 - Página web responsive para dispositivos móviles (celular).
 - Diseño en tono azul marino y blanco (modificable).
