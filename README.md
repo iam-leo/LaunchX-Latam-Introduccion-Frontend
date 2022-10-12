@@ -21,7 +21,7 @@ Descripción del caso:
 ## :memo: Toma de requerimientos
 - Página web responsive para dispositivos móviles (celular).
 - Diseño en tono azul marino y blanco (modificable).
-- Dos roles: `Administrador` y `Usuario` (cliente).
+- Tres roles: `Administrador`, `Usuario` (cliente/s) y `Sistema`.
 - `Admin/Usuario` Permitir inicio de sesión.
 ___
 - `Usuario` Permitir la creación de una cuenta.
