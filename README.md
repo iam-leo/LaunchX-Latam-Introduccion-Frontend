@@ -47,5 +47,5 @@ ___
 ## :bust_in_silhouette: Buyer Persona
 
 <div align="center">
-    <img src="./buyer-persona.jpg">
+    <img src="./buyer-persona.jpg" width="700px">
 </div>
