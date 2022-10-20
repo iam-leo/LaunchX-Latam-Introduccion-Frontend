@@ -3,6 +3,7 @@
 ## Índice de contenidos
 * [Descripción del caso](#descripcion)
 * [Toma de requerimientos](#requerimientos)
+* [Buyer persona](#buyer-persona)
 
 <a name="descripcion"></a>
 Descripción del caso:
@@ -41,3 +42,10 @@ ___
 - `Admin` Recepción de pago electrónico (virtual wallet, cuenta bancaria, etc).
 - `Admin` Recepción de notificaciones dentro del sistema y vía e-mail con cada nueva demanda creada por el/los usuario/s.
 - `Admin` Añadir comentarios en cada actualización del proceso de demanda.
+
+<a name="buyer-persona"></a>
+## :bust_in_silhouette: Buyer Persona
+
+<div align="center">
+    <img src="./buyer-persona.jpg">
+</div>
