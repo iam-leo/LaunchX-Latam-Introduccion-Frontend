@@ -4,6 +4,7 @@
 * [Descripción del caso](#descripcion)
 * [Toma de requerimientos](#requerimientos)
 * [Buyer persona](#buyer-persona)
+* [Público objetivo](#publico-obj)
 
 <a name="descripcion"></a>
 Descripción del caso:
@@ -48,4 +49,11 @@ ___
 
 <div align="center">
     <img src="./buyer-persona.jpg" width="700px">
+</div>
+
+<a name="publico-obj"></a>
+## :busts_in_silhouette: Público objetivo
+
+<div align="center">
+    <img src="./publico-objetivo.png" width="700px">
 </div>
