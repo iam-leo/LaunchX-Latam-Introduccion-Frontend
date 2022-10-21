@@ -5,6 +5,7 @@
 * [Toma de requerimientos](#requerimientos)
 * [Buyer persona](#buyer-persona)
 * [Público objetivo](#publico-obj)
+* [Diagrama de flujo de la aplicación](#flujo)
 
 <a name="descripcion"></a>
 Descripción del caso:
@@ -56,4 +57,11 @@ ___
 
 <div align="center">
     <img src="./publico-objetivo.png" width="700px">
+</div>
+
+<a name="flujo"></a>
+## :twisted_rightwards_arrows: Diagrama de flujo
+
+<div align="center">
+    <img src="./flujo-abogaBot.jpg" width="700px">
 </div>
