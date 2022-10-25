@@ -64,5 +64,5 @@ ___
 
 <div align="center">
     <img src="./flujo-abogaBot.png" width="700px"><br>
-    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/indices/flujo-abogaBot.png">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/indices/flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
