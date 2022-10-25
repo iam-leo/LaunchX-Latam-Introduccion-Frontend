@@ -63,5 +63,5 @@ ___
 ## :twisted_rightwards_arrows: Diagrama de flujo
 
 <div align="center">
-    <img src="./flujo-abogaBot.jpg" width="700px">
+    <img src="./flujo-abogaBot.png" width="700px">
 </div>
