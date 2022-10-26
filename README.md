@@ -50,6 +50,7 @@ ___
 
 <div align="center">
     <img src="./buyer-persona.jpg" width="700px">
+    <a href="./buyer-persona.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="publico-obj"></a>
@@ -57,6 +58,7 @@ ___
 
 <div align="center">
     <img src="./publico-objetivo.png" width="700px">
+    <a href="./publico-objetivo.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="flujo"></a>
@@ -64,5 +66,5 @@ ___
 
 <div align="center">
     <img src="./flujo-abogaBot.png" width="700px"><br>
-    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/indices/flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="./flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
