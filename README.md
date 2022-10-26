@@ -49,15 +49,15 @@ ___
 ## :bust_in_silhouette: Buyer Persona
 
 <div align="center">
-    <img src="./buyer-persona.jpg" width="700px">
-    <a href="./buyer-persona.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <img src="./buyer-persona.jpg" width="700px"><br>
+    <a href="./buyer-persona.jpg" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="publico-obj"></a>
 ## :busts_in_silhouette: Público objetivo
 
 <div align="center">
-    <img src="./publico-objetivo.png" width="700px">
+    <img src="./publico-objetivo.png" width="700px"><br>
     <a href="./publico-objetivo.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
