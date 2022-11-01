@@ -1,6 +1,16 @@
 # :card_index_dividers: Práctica Introducción al Frontend: **ABOGABOT**
 
-Descripción del caso:
+## Índice de contenidos
+* [Descripción del caso](#descripcion)
+* [Toma de requerimientos](#requerimientos)
+* [Buyer persona](#buyer-persona)
+* [Público objetivo](#publico-obj)
+* [Diagrama de flujo de la aplicación](#flujo)
+* [Wireframes UX](#ux)
+* [Diseño UI](#ui)
+
+<a name="descripcion"></a>
+## :bookmark_tabs: Descripción del caso
 
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a través de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -12,10 +22,11 @@ Descripción del caso:
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
+<a name="requerimientos"></a>
 ## :memo: Toma de requerimientos
 - Página web responsive para dispositivos móviles (celular).
 - Diseño en tono azul marino y blanco (modificable).
-- Dos roles: `Administrador` y `Usuario` (cliente).
+- Tres roles: `Administrador`, `Usuario` (cliente/s) y `Sistema`.
 - `Admin/Usuario` Permitir inicio de sesión.
 ___
 - `Usuario` Permitir la creación de una cuenta.
@@ -35,3 +46,43 @@ ___
 - `Admin` Recepción de pago electrónico (virtual wallet, cuenta bancaria, etc).
 - `Admin` Recepción de notificaciones dentro del sistema y vía e-mail con cada nueva demanda creada por el/los usuario/s.
 - `Admin` Añadir comentarios en cada actualización del proceso de demanda.
+
+<a name="buyer-persona"></a>
+## :bust_in_silhouette: Buyer Persona
+
+<div align="center">
+    <img src="./buyer-persona.jpg" width="700px"><br>
+    <a href="./buyer-persona.jpg" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="publico-obj"></a>
+## :busts_in_silhouette: Público objetivo
+
+<div align="center">
+    <img src="./publico-objetivo.png" width="700px"><br>
+    <a href="./publico-objetivo.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="flujo"></a>
+## :twisted_rightwards_arrows: Diagrama de flujo
+
+<div align="center">
+    <img src="./flujo-abogaBot.png" width="700px"><br>
+    <a href="./flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="ux"></a>
+## :eyeglasses: Wireframe UX
+
+<div align="center">
+    <img src="./abogabot-wireframes.png" width="700px"><br>
+    <a href="./abogabot-wireframes.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="ui"></a>
+## :art: Wireframe UX
+
+<div align="center">
+    <img src="./abogabot-UI.png" width="700px"><br>
+    <a href="./abogabot-UI.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
