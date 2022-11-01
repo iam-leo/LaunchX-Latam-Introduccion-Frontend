@@ -6,6 +6,8 @@
 * [Buyer persona](#buyer-persona)
 * [Público objetivo](#publico-obj)
 * [Diagrama de flujo de la aplicación](#flujo)
+* [Wireframes UX](#ux)
+* [Diseño UI](#ui)
 
 <a name="descripcion"></a>
 Descripción del caso:
@@ -67,4 +69,20 @@ ___
 <div align="center">
     <img src="./flujo-abogaBot.png" width="700px"><br>
     <a href="./flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="ux"></a>
+## :eyeglasses: Wireframe UX
+
+<div align="center">
+    <img src="./abogabot-wireframes.png" width="700px"><br>
+    <a href="./abogabot-wireframes.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+</div>
+
+<a name="ui"></a>
+## :art: Wireframe UX
+
+<div align="center">
+    <img src="./abogabot-UI.png" width="700px"><br>
+    <a href="./abogabot-UI.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
