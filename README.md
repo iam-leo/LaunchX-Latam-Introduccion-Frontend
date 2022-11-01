@@ -52,7 +52,7 @@ ___
 
 <div align="center">
     <img src="./buyer-persona.jpg" width="700px"><br>
-    <a href="./buyer-persona.jpg" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/main/buyer-persona.jpg" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="publico-obj"></a>
@@ -60,7 +60,7 @@ ___
 
 <div align="center">
     <img src="./publico-objetivo.png" width="700px"><br>
-    <a href="./publico-objetivo.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/main/publico-objetivo.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="flujo"></a>
@@ -68,7 +68,7 @@ ___
 
 <div align="center">
     <img src="./flujo-abogaBot.png" width="700px"><br>
-    <a href="./flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/main/flujo-abogaBot.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="ux"></a>
@@ -76,7 +76,7 @@ ___
 
 <div align="center">
     <img src="./abogabot-wireframes.png" width="700px"><br>
-    <a href="./abogabot-wireframes.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/main/abogabot-wireframes.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
 
 <a name="ui"></a>
@@ -84,5 +84,5 @@ ___
 
 <div align="center">
     <img src="./abogabot-UI.png" width="700px"><br>
-    <a href="./abogabot-UI.png" target="_blank">[ Ampliar imagen :mag: ]</a>
+    <a href="https://raw.githubusercontent.com/iam-leo/LaunchX-Latam-Introduccion-Frontend/main/abogabot-UI.png" target="_blank">[ Ampliar imagen :mag: ]</a>
 </div>
